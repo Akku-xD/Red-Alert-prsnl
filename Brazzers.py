@@ -644,7 +644,7 @@ async def _(e):
         lovely = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = lovely[0]
-            text = "Brazzers......."
+            text = "Raid alert......."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
@@ -680,7 +680,7 @@ async def _(e):
         lovely = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = lovely[0]
-            text = "Brazzers....."
+            text = "Raid alert......"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
@@ -1122,11 +1122,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "𝐁𝐑𝐀𝐙𝐙𝐄𝐑𝐒...💥"
+        text = "𝐃𝐀𝐍𝐆𝐄𝐑 𝐀𝐋𝐄𝐑𝐓...💥"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n  ♡︎ Brazzers 𝐒ᴘᴀ𝐌 ♡︎..𝐒𝐏𝐀𝐌𝐄𝐑 `{ms}` 𝗠𝗦")
+        await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n  ♡︎【𓆩𝗥ᴇᴅ★𝗔ʟᴇʀᴛ𓆪】♡︎..𝐒𝐏𝐀𝐌𝐄𝐑 `{ms}` 𝗠𝗦")
 
 
 
@@ -1155,7 +1155,7 @@ async def ping(e):
 @khu.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = "▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n  ♡︎ Brazzers 𝐒ᴘᴀ𝐌 ♡︎...𝐑𝐞𝐬𝐭𝐚𝐫𝐭.......😊"
+        text = "▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n  ♡︎【𓆩𝗥ᴇᴅ★𝗔ʟᴇʀᴛ𓆪】♡︎...𝐑𝐞𝐬𝐭𝐚𝐫𝐭.......😊"
 
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
@@ -1226,7 +1226,7 @@ async def restart(e):
 @khu.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 async def alive(e):
     if e.sender_id in SMEX_USERS:
-        text = " ♡︎ Brazzers 𝐒ᴘᴀ𝐌 ♡︎\n\n\n Brazzers 𝐒ᴘᴀᴍ ɪs 𝐀ʟɪᴠᴇ !!\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [BRAZZERS](t.me/Badnam_Botz)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [BADNAM](t.me/Its_Brutal_xD)\n ┗━━━━━━━━━━━━━━━━━━━\n "
+        text = " ♡︎ 【𓆩𝗥ᴇᴅ★𝗔ʟᴇʀᴛ𓆪】 ♡︎\n\n\n ᗪᴀɴɢᴇʀ 𝐒ᴘᴀᴍ ɪs 𝐀ʟɪᴠᴇ !!\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [ʀᴀɪᴅᴀʟɪʀᴛ](t.me/RedAlertSpam)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [ᴏᴡɴᴇʀ](t.me/Saksham_YT)\n ┗━━━━━━━━━━━━━━━━━━━\n "
         await e.reply(text, parse_mode=None, link_preview=None )
  
 
@@ -1253,7 +1253,7 @@ async def alive(e):
 @khu.on(events.NewMessage(incoming=True, pattern=r"\.help"))
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ♡︎ Brazzers 𝐒ᴘᴀ𝐌 ♡︎..𝗖𝗢𝗠𝗠𝗢𝗡𝗗\n\n𝙐𝙩𝙞𝙡𝙨 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.ping\n.restart\n\n𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.join\n.pjoin\n.leave\n\n𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = " ♡︎ 【𓆩𝗥ᴇᴅ★𝗔ʟᴇʀᴛ𓆪】 ♡︎..𝗖𝗢𝗠𝗠𝗢𝗡𝗗\n\n𝙐𝙩𝙞𝙡𝙨 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.ping\n.restart\n\n𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.join\n.pjoin\n.leave\n\n𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
