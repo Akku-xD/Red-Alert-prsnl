@@ -13,7 +13,7 @@
 -------------------------------------------------
 ### ᴄʀᴇᴀᴛᴏʀ 🎌
 
-[![telegram badge](https://img.shields.io/badge/PRINCE-30302f?style=for-the-badge&logo=telegram)](https://t.me/rockstar_prince_op)
+[![telegram badge](https://img.shields.io/badge/Redalert-30302f?style=for-the-badge&logo=telegram)](https://t.me/Saksham_YT)
 
 ### BADNAM🎌
 
@@ -22,7 +22,7 @@
 
 # Click The Logo' Deploy ...
 
-[![Deploy](https://telegra.ph/file/9f1afa7161f562546f062.jpg)](https://heroku.com/deploy?template=https://github.com/Brutal-xd/Brazzers.com)
+[![Deploy](https://telegra.ph/file/9f1afa7161f562546f062.jpg)](https://heroku.com/deploy?template=https://github.com/Akku-xD/Red-Alert-prsnl)
 
 ------------------------------------------------
 
